@@ -17,7 +17,7 @@
   "dependencies": {
     "signature_pad": "^1.5.0"
   },
-  "author": "LegalThings <info@legalthings.net>",
+  
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/legalthings/angular-signature/issues"
