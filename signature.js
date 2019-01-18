@@ -1,7 +1,4 @@
-/*
- * https://github.com/legalthings/signature-pad-angular
- * Copyright (c) 2015 ; Licensed MIT
- */
+
 
 angular.module('signature', []);
 
